@@ -1,6 +1,5 @@
 # DashboardFinance
 
-Description
 Finance Dashboard est un outil interactif de gestion de portefeuille conçu pour aider les utilisateurs à suivre, analyser et optimiser leurs investissements financiers. Développé avec Excel et Power BI, ce tableau de bord fournit des visualisations dynamiques et des indicateurs financiers clés pour offrir une vue d'ensemble claire et détaillée des performances de votre portefeuille.
 
 Fonctionnalités
