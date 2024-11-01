@@ -19,7 +19,7 @@ Power BI Desktop pour la création et la personnalisation des dashboards
 
 Installation
 Clonez le repository du projet :
-git clone https://github.com/username/finance-dashboard.git
+git clone https://github.com/Chheche/DashboardFinance.git
 
 Ouvrez le fichier Excel et ajoutez vos données d'investissement dans les feuilles de calcul appropriées.
 
